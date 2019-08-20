@@ -5,6 +5,6 @@
 
 Objects    | Messages
 ------------------ | --------------------
-person | see, working
-bike | use
-docking station | release
+person |
+bike | working?
+docking station | release_bike
