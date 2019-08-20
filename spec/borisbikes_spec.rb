@@ -1,7 +1,5 @@
-require 'DockingStation'
+require 'docking_station'
 
 describe DockingStation do
-  it 'returns RELEASED when passed open' do
-    expect(dockingstation(open)).to eq 'RELEASED'
-  end
+  it { expect(DockingStation.new).to eq nil }
 end
