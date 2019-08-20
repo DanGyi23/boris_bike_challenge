@@ -1,7 +1,7 @@
-Boris Bikes
+## Boris Bikes
 
-nouns: person, bike, docking station
-verbs: use, release, see, working
+- Nouns: person, bike, docking station
+- Verbs: use, release, see, working
 
 Objects    | Messages
 ------------------ | --------------------
